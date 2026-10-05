@@ -1,4 +1,4 @@
-# macOS-style 
+# macOS-style raminnn.me
 
 A personal portfolio that looks and works like a macOS desktop. Plain HTML, CSS and JavaScript, with no build step and no dependencies.
 
